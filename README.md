@@ -34,4 +34,4 @@
 ## 🔗 Ссылки
 
 - [Официальный курс Next.js](https://nextjs.org/learn/dashboard-app)
-- [Демо на Vercel](https://your-project.vercel.app)
+- [Демо на Vercel](https://vercel.com/arthurfilatovs-projects/study-dashboard-project)
