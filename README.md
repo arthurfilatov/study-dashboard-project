@@ -1,7 +1,37 @@
-## Next.js App Router Course - Starter
+# 📊 Next.js Dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Учебный проект из официального курса Next.js Learn — финансовая панель управления с аутентификацией, CRUD-операциями над invoices и защищёнными маршрутами.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+**Технологии:**
+![Next.js](https://img.shields.io/badge/Next.js-13.5-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# study-dashboard-project
+## 📋 Функционал
+
+- Публичная домашняя страница
+- Страница логина с аутентификацией
+- Защищённый dashboard с invoices и customers
+- Добавление, редактирование, удаление счетов
+
+## 🖼️ Скриншоты
+
+| Домашняя страница              | Вход в систему                  | Dashboard                               |
+| ------------------------------ | ------------------------------- | --------------------------------------- |
+| ![Home](screenshots/login.png) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+
+| Счета                                 | Клиенты                             | Cоздание счета                                |
+| ------------------------------------- | ----------------------------------- | --------------------------------------------- |
+| ![Invoices](screenshots/invoices.png) | ![Clients](screenshots/clients.png) | ![Create invoice](screenshots/cr_invoice.png) |
+
+## 📚 Что изучено
+
+- App Router (layouts, pages, loading.tsx)
+- Server Components и Client Components
+- Middleware для аутентификации
+- Работа с базой данных (в курсе — Postgres)
+
+## 🔗 Ссылки
+
+- [Официальный курс Next.js](https://nextjs.org/learn/dashboard-app)
+- [Демо на Vercel](https://your-project.vercel.app)
