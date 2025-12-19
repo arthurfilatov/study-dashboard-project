@@ -3,7 +3,7 @@
 Учебный проект из официального курса Next.js Learn — финансовая панель управления с аутентификацией, CRUD-операциями над invoices и защищёнными маршрутами.
 
 **Технологии:**
-![Next.js](https://img.shields.io/badge/Next.js-13.5-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -18,7 +18,7 @@
 
 | Домашняя страница              | Вход в систему                  | Dashboard                               |
 | ------------------------------ | ------------------------------- | --------------------------------------- |
-| ![Home](screenshots/login.png) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Home](screenshots/home.png) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
 
 | Счета                                 | Клиенты                             | Cоздание счета                                |
 | ------------------------------------- | ----------------------------------- | --------------------------------------------- |
@@ -34,4 +34,4 @@
 ## 🔗 Ссылки
 
 - [Официальный курс Next.js](https://nextjs.org/learn/dashboard-app)
-- [Демо на Vercel](https://your-project.vercel.app)
+- [Демо на Vercel](https://vercel.com/arthurfilatovs-projects/study-dashboard-project)
