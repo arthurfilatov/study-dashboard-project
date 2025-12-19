@@ -18,7 +18,7 @@
 
 | Домашняя страница              | Вход в систему                  | Dashboard                               |
 | ------------------------------ | ------------------------------- | --------------------------------------- |
-| ![Home](screenshots/login.png) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Home](screenshots/home.png) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
 
 | Счета                                 | Клиенты                             | Cоздание счета                                |
 | ------------------------------------- | ----------------------------------- | --------------------------------------------- |
